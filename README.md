@@ -10,4 +10,6 @@ As the project title implies, this website is an assignment I did while studying
 
 https://www.theodinproject.com/lessons/foundations-recipes
 
+Here is the link to the live site: https://ohgravity.github.io/odin-recipes/
+
 Thanks for looking!
